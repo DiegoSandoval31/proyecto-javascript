@@ -1,4 +1,5 @@
 console.log('Hola Mundo') // este es un comentario
+console.log('javaScript')
 
 //funcion para ordenar una lista
 function quicksort(lista){
